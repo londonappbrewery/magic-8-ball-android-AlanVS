@@ -19,7 +19,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="18dp"
-        android:text="Make everyday decisions easier!"
+        android:text="@string/app_title"
         android:textColor="@android:color/black"
         android:textSize="20sp"
         android:textStyle="bold" />
